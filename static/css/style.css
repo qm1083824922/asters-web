@@ -1,0 +1,255 @@
+﻿/***************** reset *****************/
+* {
+    margin: 0;
+    padding: 0;
+    word-wrap: break-word;
+}
+
+body {
+    color: #444;
+    font: 12px/1 "\5FAE\8F6F\96C5\9ED1", "\5B8B\4F53";
+    background: #fff;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-size: 100%;
+    font-weight: normal;
+}
+
+a {
+    color: #444;
+    text-decoration: none;
+}
+
+a:hover {
+    color: #1d8c9d;
+    text-decoration: none;
+}
+
+img {
+    border: 0;
+}
+
+ul, li {
+    list-style: none;
+}
+.clear {
+    clear: both;
+    height: 1px;
+    font-size: 0;
+    line-height: 0;
+}
+
+/***************** universal *****************/
+
+#foot{
+    width: 1210px;
+    margin: 0 auto;
+}
+
+.con_box {
+    margin: 0 auto;
+    background: #f7f7fa;
+    height: 800px;
+}
+.box .title {
+    padding: 50px 0 30px;
+    text-align: center;
+    position: relative;
+}
+.box .title h3 {
+    font-size: 50px;
+    color: #000;
+    font-weight: normal;
+    margin-top: 66px;
+}
+.box .title span.line {
+    width: 65px;
+    height: 3px;
+    display: block;
+    margin: 55px auto;
+    background: black;
+}
+.box .title span {
+    font-size: 24px;
+    color: #bbb;
+    font-family: Arial, Gotham, "Helvetica Neue", Helvetica, sans-serif;
+}
+.box .con {
+    line-height: 24px;
+    overflow: hidden;
+    margin-left: 7%;
+}
+.con .pic{
+    margin-left: 37.5%;
+}
+.IP-resource-title{
+
+}
+.IP-resource-number{
+
+}
+.IP-resource-content{
+
+}
+.channel-resource-title{
+
+}
+.channel-resource-number{
+
+}
+.channel-resource-content{
+
+}
+.brand-dealer-resource-title{
+
+}
+.brand-dealer-resource-number{
+
+}
+.brand-dealer-resource-content{
+
+}
+.supplier-resource-title{
+
+}
+.supplier-resource-number{
+
+}
+.supplier-resource-content{
+
+}
+.con .line{
+    width: 56px;
+    height: 2px;
+    display: block;
+    margin: 30px auto auto 40%;
+    background: black;
+}
+.products .con ul {
+    width: auto;
+}
+ul, li {
+    list-style: none;
+}
+.products .con ul li {
+    width: 22%;
+    height: 380px;
+    float: left;
+    background: white;
+    margin: 0 5px 0 0;
+    padding: 0 0 0 0;
+}
+a {
+    color: #444;
+    text-decoration: none;
+}
+img, a img, a:hover img {
+    border: 0;
+    vertical-align: bottom;
+}
+.products .con ul li p {
+    color: #999;
+    font-size: 14px;
+    line-height: 18px;
+    margin-bottom: 15px;
+}
+.clear {
+    clear: both;
+    height: 1px;
+    font-size: 0;
+    line-height: 0;
+}
+
+
+@-moz-keyframes spin {
+    0% {
+        -moz-transform: rotate(0deg);
+    }
+    100% {
+        -moz-transform: rotate(360deg);
+    }
+}
+
+@-webkit-keyframes spin {
+    0% {
+        -webkit-transform: rotate(0deg);
+    }
+    100% {
+        -webkit-transform: rotate(360deg);
+    }
+}
+
+@-o-keyframes spin {
+    0% {
+        -o-transform: rotate(0deg);
+    }
+    100% {
+        -o-transform: rotate(360deg);
+    }
+}
+
+@-ms-keyframes spin {
+    0% {
+        -ms-transform: rotate(0deg);
+    }
+    100% {
+        -ms-transform: rotate(360deg);
+    }
+}
+
+@keyframes spin {
+    0% {
+        transform: rotate(0deg);
+    }
+    100% {
+        transform: rotate(360deg);
+    }
+}
+
+.products .con ul {
+    width: auto;
+}
+
+.products .con ul li {
+    height: 386px;
+    width: 23%;
+    float: left;
+}
+
+.products .con ul li h3 {
+    font-size: 18px;
+    text-align: center;
+    line-height: 50px;
+    font-weight: normal;
+}
+
+.products .con ul li h3 a {
+    color: #000;
+}
+
+.products .con ul li h3 a:hover {
+    text-decoration: underline;
+}
+
+.products .con ul li span.data {
+    color: #999;
+}
+
+.products .con ul li p {
+    color: #999;
+    font-size: 14px;
+    line-height: 18px;
+    margin-bottom: 15px;
+}
+
+.products .con ul li a.detail {
+    font-size: 14px;
+    color: #000;
+    padding-right: 30px;
+    background: url(../images/hot_img_arrow.png) no-repeat right center;
+}
+
+.products .con ul li a.detail:hover {
+    text-decoration: underline;
+}

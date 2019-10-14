@@ -1,0 +1,18 @@
+.backtop {
+    position: fixed;
+    right: 0.8%;
+    bottom: 92px;
+    background: url(../images/backtop.png) center center no-repeat;
+    cursor: pointer;
+    z-index: 9999;
+    -moz-transition: all 300ms ease;
+    -o-transition: all 300ms ease;
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+}
+
+.backtop:hover {
+    background: url(../images/backtops.png) center center no-repeat #1817ba;
+    background-size: 29px 16px;
+}

@@ -1,0 +1,53 @@
+.partner-program{
+    width: 100%;
+}
+.partner-program-title-plan{
+    font-size:50px;
+    font-weight:500;
+    color:#000000;
+    text-align: center;
+    padding-bottom: 50px;
+    background: url(../../images/under-line.png) no-repeat center bottom;
+}
+.partner-program-content{
+    font-size:25px;
+    font-weight:300;
+    color:#000000;
+    text-align: center;
+}
+
+.partner-model{
+    width: 88.5%;
+    height: 572px;
+    margin-left: 6%;
+    background: #f7f7fa ;
+}
+.partner-model-image{
+    padding-top: 72px;
+    padding-left: 60px;
+}
+.partner-program-map{
+    margin-top: 20px;
+    width: 88.5%;
+    height: 886px;
+    margin-left: 6%;
+    background: #f7f7fa ;
+}
+.partner-program-map-image{
+    margin-left: 386px;
+    padding-top: 50px;
+}
+.partner-program-map-image image{
+    width: 100%;
+}
+.partner-mechanism{
+    margin-top: 76px;
+    margin-bottom: 76px;
+}
+.partner-mechanism-introduce{
+    font-size:25px;
+    font-weight:400;
+    color:#000000;
+    text-align: center;
+    line-height:42px;
+}

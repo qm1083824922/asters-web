@@ -1,0 +1,83 @@
+#header {
+    background: rgba(255, 255, 255, 1);
+    z-index: 99999;
+    position: fixed;
+    left: 0;
+    top: 0;
+    width: 100%;
+}
+.topbox {
+    height: 89px;
+    position: relative;
+}
+.mainbox {
+    padding-left: 4.5%;
+    padding-right: 4.5%;
+}
+.topbox .logo {
+    position: absolute;
+    left: 4.5%;
+    top: 28px;
+}
+.topbox .topcon {
+    padding-top: 6px;
+}
+.topbox .topr {
+    position: absolute;
+    right: 4.5%;
+    top: 14px;
+    font-size: 20px;
+    text-align: right;
+    line-height: 30px;
+}
+.topbox .topr b {
+    display: block;
+    font-size: 20px;
+    text-align: right;
+    font-weight: normal;
+}
+.topbox .topr span {
+    display: block;
+    font-size: 16px;
+    text-align: right;
+}
+a {
+    color: #337ab7;
+    text-decoration: none;
+}
+a {
+    background-color: transparent;
+}
+.topbox .tnav {
+    text-align: center;
+    font-size: 16px;
+}
+.topbox .tnav a.hover {
+    color: #20ACDD;
+}
+.topbox .tnav a {
+    display: inline-block;
+    line-height: 44px;
+    padding: 0px 18px;
+}
+.topbox .tophits {
+    text-align: center;
+    font-size: 14px;
+    color: #b3b3b3;
+    line-height: 21px;
+}
+.topbox .tophits i {
+    display: inline-block;
+    text-align: center;
+    font-size: 14px;
+    color: #fff;
+    line-height: 21px;
+    height: 21px;
+    padding: 0px 3px;
+    border-radius: 2px;
+    background: #20ACDD;
+    margin: 0px 2px 0px 1px;
+}
+i {
+    font-style: normal;
+}

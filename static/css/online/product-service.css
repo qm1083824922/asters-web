@@ -1,0 +1,45 @@
+.index_d-text {
+    position: absolute;
+    left: 50%;
+    margin-left: -500px;
+    z-index: 2;
+    top: 50%;
+    margin-top: -330px;
+}
+.width_one {
+    width: 1000px;
+    margin: 0px auto;
+}
+
+.index_d-text dl {
+    text-align: center;
+}
+ul, li, ol, p, dt, dd, dl {
+    padding: 0px;
+    margin: 0px;
+    list-style-type: none;
+    display: block;
+}
+
+.index_d-text ul {
+    margin-top: 70px;
+}
+
+.index_d-text dl dt {
+    font-size: 50px;
+    color: #3e3a39;
+    line-height: 65px;
+    padding-bottom: 45px;
+    background: url(../images/bai_heng-w60_h2_a20.png) no-repeat center bottom;
+}
+
+.index_d-text dl dd {
+    font-size: 16px;
+    color: #898989;
+    margin-top: 50px;
+    line-height: 30px;
+}
+
+.index_d-text ul {
+    margin-top: 70px;
+}

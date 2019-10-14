@@ -1,0 +1,450 @@
+ul, li, ol, dt, dd, dl {
+    padding: 0px;
+    margin: 0px;
+    list-style-type: none;
+    display: block;
+}
+.index_d-text dl {
+    text-align: center;
+}
+.index_d-text dl dt {
+    font-size: 50px;
+    color: #3e3a39;
+    line-height: 65px;
+    padding-bottom: 80px;
+    background: url(../../images/under-line.png) no-repeat center bottom;
+}
+.index_d-text ul {
+    margin-top: 80px;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+.index_d-text ul li.index_d-li1 {
+    background: #075897;
+}
+.index_d-text ul li.index_d-li2 {
+    background: #00a1e9;
+}
+.index_d-text ul li.index_d-li3 {
+    background: #221943;
+}
+.index_d-text ul li.index_d-li4 {
+    background: #31a99d;
+}
+.index_d-text ul li.index_d-li5 {
+    background: #018043;
+}
+.index_d-text ul li {
+    width: 280px;
+    height: 225px;
+    float: left;
+    background: #075897;
+    text-align: center;
+    color: #fff;
+}
+.index_d-text ul li h4 {
+    height: 16px;
+    font-size: 30px;
+    font-weight: 500;
+    color: rgba(255,255,255,1);
+    line-height: 130px;
+}
+.cl_b {
+    clear: both;
+}
+
+.width_one .title1{
+    margin-top: 120px;
+    font-size:50px;
+    font-weight:500;
+    color:#000000;
+    text-align: center;
+    padding-bottom: 50px;
+    background: url(../../images/under-line.png) no-repeat center bottom;
+}
+.width_one .title2{
+    margin-top: 40px;
+    font-size:71px;
+    font-weight:500;
+    color:#000000;
+    text-align: center;
+}
+.width_one .title2-content{
+    margin-top: -20px;
+    font-size:25px;
+    font-weight:300;
+    color:#000000;
+    text-align: center;
+}
+
+.width_one .title2-image{
+    margin-top: 30px;
+    margin-left: 5%;
+}
+
+/*未来三十年*/
+
+/**全局样式*/
+.cl_b {
+    clear: both;
+}
+
+.indexbox{
+    width: 88%;
+    background: #f7f7fa;
+    margin-left: 5%;
+    margin-top: -100px;
+}
+.index_b-text-a h2 {
+    font-size: 50px;
+    color: #3e3a39;
+    line-height: 65px;
+    text-align: center;
+}
+.index_b-text-a h5 {
+    font-size: 25px;
+    margin-top: 50px;
+    font-weight: 300;
+    line-height: 30px;
+    text-align: center;
+}
+.index_b-text-ba {
+    margin-left: 16%;
+}
+.index_b-text-ba .d1 {
+    background: rgba(7,88,151,1);
+}
+.index_b-text-ba .d1 {
+    background: rgba(7,88,151,1);
+}
+.index_b-text-ba dl {
+    float: left;
+    margin: 20px 48px;
+    width: 280px;
+    height: 280px;
+    border-radius: 50%;
+    -webkit-border-radius: 50%;
+    -moz-border-radius: 50%;
+    border: 1px solid #a7a7a7;
+    text-align: center;
+}
+ul, li, ol, dt, dd, dl {
+    padding: 0px;
+    margin: 0px;
+    list-style-type: none;
+    display: block;
+}
+.index_b-text-ba .d2 {
+    background: rgba(0,161,233,1);
+}
+.index_b-text-ba .d3 {
+    background: rgba(49,169,157,1);
+}
+.index_b-text-ba .font-num-style {
+    font-size: 50px;
+    font-weight: 500;
+    color: rgba(255,255,255,1);
+    line-height: 240px;
+}
+.index_b-text-ba .font-style {
+    font-size: 29px;
+    font-weight: 400;
+    color: rgba(255,255,255,1);
+    margin-top: -55px;
+}
+
+.index_d-text dl {
+    text-align: center;
+}
+.index_d-text dl dt {
+    font-size: 50px;
+    color: #3e3a39;
+    line-height: 65px;
+    padding-bottom: 45px;
+    background: url(../../images/under-line.png) no-repeat center bottom;
+}
+
+
+.index_d-text ul {
+    margin-top: 70px;
+}
+.index_d-text ul li {
+    width: 20%;
+    height: 112px;
+    float: left;
+    padding: 40px 0px 25px 0px;
+    background: #075897;
+    text-align: center;
+    color: #fff;
+}
+.index_d-text ul li h4 {
+    height: 16px;
+    font-size: 25px;
+    font-weight: 500;
+    color: rgba(255,255,255,1);
+    line-height: 45px;
+}
+#index_b .title1 {
+    font-size:50px;
+    font-weight:500;
+    color:#000000;
+    text-align: center;
+}
+#index_b .title1-content {
+    margin-top: -15px;
+    font-size:25px;
+    font-weight:300;
+    color:#000000;
+    text-align: center;
+}
+.store-title {
+    /*margin-top: 120px;*/
+    font-size:29px;
+    font-weight:400;
+    color:#000000;
+    text-align: center;
+}
+.store-icase div{
+    float: left;
+}
+.store-item1{
+    margin-left: 150px;
+}
+.store-item{
+    margin-left: 60px;
+}
+
+.width_one{
+    padding-top: 20px;
+}
+
+/*商品赋能*/
+.width_one .product-title{
+    font-size:50px;
+    font-weight:500;
+    color:#000000;
+    text-align: center;
+    padding-bottom: 50px;
+    background: url(../../images/under-line.png) no-repeat center bottom;
+}
+
+.width_one .product-title-content{
+    font-size:25px;
+    font-weight:300;
+    color:#000000;
+    text-align: center;
+}
+.product-title-container div{
+    float: left;
+}
+.product-title-introduce{
+    background: #f7f7fa;
+    width: 697px;
+    height: 574px;
+    margin-left: 230px;
+}
+.product-title-introduce-image{
+    margin-top: 90px;
+    margin-left: 230px;
+}
+.product-title-content1{
+    margin-top: 180px;
+    font-size:29px;
+    font-weight:400;
+    color:#000000;
+    text-align: center;
+}
+.product-title-content2{
+    font-size:25px;
+    font-weight:300;
+    color:#000000;
+    text-align: center;
+}
+.product-title-content3{
+    font-size:29px;
+    font-weight:400;
+    color:#000000;
+    text-align: center;
+}
+.product-title-content4{
+    font-size:25px;
+    font-weight:300;
+    color:#000000;
+    text-align: center;
+}
+.product-title-image{
+    margin-left: 24px;
+}
+.IP-product-title{
+    font-size:50px;
+    font-weight:500;
+    color:#000000;
+    text-align: center;
+    padding-bottom: 50px;
+    background: url(../../images/under-line.png) no-repeat center bottom;
+}
+.IP-product-title-content{
+    font-size:25px;
+    font-weight:300;
+    color:#000000;
+    text-align: center;
+}
+
+.IP-title-container{
+    margin-top: 50px;
+    width: 90%;
+}
+.IP-introduce{
+
+}
+.IP-title-container div{
+    float: left;
+}
+.IP-introduce-image{
+    margin-left: 230px;
+}
+.IP-content{
+    background: #f7f7fa;
+    width: 697px;
+    height: 574px;
+    margin-left: 24px;
+}
+.IP-content1{
+    margin-top: 90px;
+    font-size:29px;
+    font-weight:400;
+    color:#000000;
+    text-align: center;
+}
+.IP-content2{
+    font-size:25px;
+    font-weight:300;
+    color:#000000;
+    text-align: center;
+}
+.IP-content3{
+    margin-top: 67px;
+    font-size:29px;
+    font-weight:400;
+    color:#000000;
+    text-align: center;
+}
+
+.customized-product-title{
+    font-size:50px;
+    font-weight:500;
+    color:#000000;
+    text-align: center;
+    padding-bottom: 50px;
+    background: url(../../images/under-line.png) no-repeat center bottom;
+}
+.customized-product-title-content{
+    font-size:25px;
+    font-weight:300;
+    color:#000000;
+    text-align: center;
+}
+
+.customized-title-container{
+
+}
+
+.customized-title-container div{
+    float: left;
+}
+
+.customized-introduce{
+    background: #f7f7fa;
+    width: 697px;
+    height: 574px;
+    margin-left: 230px;
+}
+
+.customized-title-content{
+    margin-top: 155px;
+    font-size:25px;
+    font-weight:300;
+    color:#000000;
+    text-align: center;
+    line-height: 42px;
+}
+.system-product-title{
+    font-size:50px;
+    font-weight:500;
+    color:#000000;
+    text-align: center;
+    padding-bottom: 50px;
+    background: url(../../images/under-line.png) no-repeat center bottom;
+}
+.system-product-title-content{
+    font-size:25px;
+    font-weight:300;
+    color:#000000;
+    text-align: center;
+}
+.system-title-container{
+    margin-top: 50px;
+}
+.system-title-container div{
+    float: left;
+}
+.system-introduce-image{
+    margin-left: 230px;
+}
+.system-content{
+    background: #f7f7fa;
+    width: 697px;
+    height: 574px;
+    margin-left: 24px;
+}
+.system-content-position{
+    margin-left: 50px;
+}
+.system-content1{
+    font-size:25px;
+    font-weight:500;
+    color:#000000;
+    text-align: left;
+}
+.system-content2{
+    font-size:20px;
+    font-weight:300;
+    color:#000000;
+    text-align: left;
+}
+
+.finance-product-title{
+    margin-top: 115px;
+    font-size:50px;
+    font-weight:500;
+    color:#000000;
+    text-align: center;
+    padding-bottom: 50px;
+    background: url(../../images/under-line.png) no-repeat center bottom;
+}
+.finance-product-title-content{
+    font-size:25px;
+    font-weight:300;
+    color:#000000;
+    text-align: center;
+}
+
+.finance-title-container{
+
+}
+.finance-introduce{
+    background: #f7f7fa;
+    width: 697px;
+    height: 574px;
+    margin-left: 230px;
+}
+.finance-title-container div{
+    float: left;
+}
+.finance-introduce-image{
+    margin-top: 97px;
+    margin-left: 53px;
+}
+.finance-content{
+    margin-left: 24px;
+}

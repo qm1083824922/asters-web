@@ -1,0 +1,93 @@
+.company-container{
+    background: white;
+}
+.company-container .pic{
+    margin-left:42%;
+}
+.company-container .corporation-introduce{
+    padding: 0px 0 0px;
+    text-align: center;
+    position: relative;
+}
+.company-container .corporation-introduce h3{
+    font-size: 50px;
+    color: #000000;
+    font-weight: bold;
+}
+.horizontal-line{
+    width: 60px;
+    height: 2px;
+    display: block;
+    margin: 40px auto;
+    background: #000000;
+}
+.corporation-introduce{
+    /*height:147px;*/
+    font-size:23px;
+    font-weight:400;
+    color:#000000;
+}
+.cooperative-resources{
+    background: #f7f7fa;
+    margin-left: 88px;
+    margin-right: 82px;
+}
+
+.IP-resource-title{
+    padding-top: 20px;
+    font-size:30px;
+    font-weight:500;
+    color:#20ACDD;
+}
+.IP-resource-number{
+    margin-top: -55px;
+    font-size:50px;
+    font-weight:400;
+    margin-left: 10px;
+    color:black;
+}
+.IP-resource-content{
+    margin-top: -50px;
+}
+.channel-resource-title{
+    font-size:30px;
+    font-weight:400;
+    color:#20ACDD;
+}
+.channel-resource-number{
+    margin-top: -55px;
+    font-size:50px;
+    font-weight:400;
+    margin-left: 10px;
+}
+.channel-resource-content{
+    margin-top: -50px;
+}
+.brand-dealer-resource-title{
+    font-size:30px;
+    font-weight:400;
+    color:#20ACDD;
+}
+.brand-dealer-resource-number{
+    margin-top: -55px;
+    font-size:50px;
+    font-weight:400;
+    margin-left: 10px;
+}
+.brand-dealer-resource-content{
+    margin-top: -55px;
+}
+.supplier-resource-title{
+    font-size:30px;
+    font-weight:400;
+    color:#20ACDD;
+}
+.supplier-resource-number{
+    margin-top: -55px;
+    font-size:50px;
+    font-weight:400;
+    margin-left: 10px;
+}
+.supplier-resource-content{
+    margin-top: -55px;
+}
